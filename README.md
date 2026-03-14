@@ -50,7 +50,9 @@ The analysis includes *data preprocessing, cleaning, visualization, and insight 
 - Time-based demand analysis
 - Geographic analysis using pickup and drop locations
 - Machine learning model for fare prediction
-
+- 
 ##Author
+
 *Kranthi Allapalli*
+
 GitHub: https://github.com/kranthiallappalli
