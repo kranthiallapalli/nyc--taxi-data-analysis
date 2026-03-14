@@ -18,9 +18,14 @@ The analysis includes *data preprocessing, cleaning, visualization, and insight 
 - Jupyter Notebook
 
 ##Repository Structure
-nyc-taxi-data-analysis
-01_data_preprocessing.ipynb
-02_data_visualization.ipynb
+
+├── 01_data_preprocessing.ipynb
+
+├── 02_data_visualization.ipynb
+
+└── README.md
+
+---
 
 ##Analysis Performed
 
