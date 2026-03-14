@@ -2,6 +2,12 @@
 This project performs *Exploratory Data Analysis (EDA)* on the NYC Taxi dataset to understand trip patterns, fare distribution, and demand trends.
 The analysis includes *data preprocessing, cleaning, visualization, and insight extraction* using Python.
 
+## Dataset
+The dataset used in this project is the NYC Taxi dataset.
+
+you can download it from:
+https://share.google/INmI9scejyn55vVyF
+
 ## Project Objectives
 - Clean and preprocess the NYC taxi dataset
 - Handle missing values and outliers
@@ -50,6 +56,7 @@ The analysis includes *data preprocessing, cleaning, visualization, and insight 
 - Time-based demand analysis
 - Geographic analysis using pickup and drop locations
 - Machine learning model for fare prediction
+- 
 - 
 ## Author
 
